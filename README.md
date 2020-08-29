@@ -8,4 +8,4 @@ You can run these experiments yourself by installing [Anaconda Python 3 distribu
 
 The following notebooks are provided:
 
-* [Quantum entanglement and quantum teleporation](quantum_teleportation.ipynb): shows the properties of quantum entangled states, and how this can be used to teleport quantum information (qubits) across space in cryptographically secure manner.
+* [Quantum entanglement and quantum teleportation](quantum_teleportation.ipynb): shows the properties of quantum entangled states, and how this can be used to teleport quantum information (qubits) across space in cryptographically secure manner.
