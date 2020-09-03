@@ -9,4 +9,4 @@ You can run these experiments yourself by installing [Anaconda Python 3 distribu
 The following notebooks are provided:
 
 * [Quantum entanglement and quantum teleportation](quantum_teleportation.ipynb): shows the properties of quantum entangled states, and how this can be used to teleport quantum information (qubits) across space in a cryptographically secure manner.
-* [SAT solver with Grover's algoriothm](sat_grover.ipynb): shows how Grover's algorithm for unsorted search can also be used to solve boolean satisfiability problems. The algorithm is also run on real quantum hardware.
+* [SAT solver with Grover's algorithm](sat_grover.ipynb): shows how Grover's algorithm for unsorted search can also be used to solve boolean satisfiability problems. The algorithm is also run on real quantum hardware.
