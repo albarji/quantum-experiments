@@ -4,5 +4,6 @@ dependencies:
   - pip=20.1.*
   - seaborn=0.10.*
   - pip:
-    - qiskit==0.19.*
+    - qiskit==0.29.*
+    - pylatexenc==2.10
     - git+https://github.com/qiskit-community/qiskit-textbook.git#subdirectory=qiskit-textbook-src
