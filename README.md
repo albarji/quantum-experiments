@@ -10,3 +10,5 @@ The following notebooks are provided:
 
 * [Quantum entanglement and quantum teleportation](quantum_teleportation.ipynb): shows the properties of quantum entangled states, and how this can be used to teleport quantum information (qubits) across space in a cryptographically secure manner.
 * [SAT solver with Grover's algorithm](sat_grover.ipynb): shows how Grover's algorithm for unsorted search can also be used to solve boolean satisfiability problems. The algorithm is also run on real quantum hardware.
+* [Splitting the universe with a quantum collapse](universe_split.ipynb): kind of a "performance notebook" showing how, according to Everett interpretation of quantum mechanics, every measurement of a quantum system results in a branching of the universe.
+
